@@ -1,0 +1,10 @@
+# datbasedotcom.yml
+#
+---
+client_secret: ##########################
+client_id: ##########################
+host: login.salesforce.com
+version: 24.0
+debugging: false
+sobject_module: Databasedotrb::SObject
+verify_mode: OpenSSL::SSL::VERIFY_NONE
